@@ -15,10 +15,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * Created by xuqingfu on 2017/4/24.
- */
-
 public class AppAdapter extends RecyclerView.Adapter<AppAdapter.ViewHolder> {
 
     List<MyAppInfo> mListData = new ArrayList<MyAppInfo>();
